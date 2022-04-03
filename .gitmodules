@@ -1,0 +1,3 @@
+[submodule "addressbook"]
+	path = addressbook
+	url = https://github.com/kumaraqua/addressbook
